@@ -5,7 +5,8 @@ import TodoList from './ToDoList';
 function App() {
   return (
     <div className="App">
-    <TodoList/>
+       {/* <TodoList/> */}
+  <TodoListHooks/>
   
   
    </div>
